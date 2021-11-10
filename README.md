@@ -6,9 +6,9 @@ O material presente nesse conjunto, aborda a linguagem de programação Java. Al
 
 [:red_square: 00 - Bem vindo a Digital Innovation One](https://github.com/RonielNunes/00-BemVindoADIO)
 
-[:orange_square: 01 - Lógica de programação essencial]()
+[:orange_square: 01 - Lógica de programação essencial](https://github.com/RonielNunes/01-LogicaDeProgramaAoEssencial.git)
 
-[:yellow_square: 02 - Introdução ao Git e ao Github]()
+[:yellow_square: 02 - Introdução ao Git e ao Github](https://github.com/RonielNunes/02-IntroducaoAoGitEaAoGithub.git)
 
 [:green_square: 03-ConceitosEmelhoresPráticasComBancosDeDadosPostgreSQL]()
 
